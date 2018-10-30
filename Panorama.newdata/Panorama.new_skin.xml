@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.18">
+
+  
+  <!-- Spot Style - Экспозиция 1 -->
+  <style name="PolygonЭкспозиция1"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция1"
+           onover="onoverPolygonЭкспозиция1"
+           onout="onoutPolygonЭкспозиция1"
+           />
+  <action name="onhoverPolygonЭкспозиция1">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция1">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция1">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 2 -->
+  <style name="PolygonЭкспозиция2"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция2"
+           onover="onoverPolygonЭкспозиция2"
+           onout="onoutPolygonЭкспозиция2"
+           />
+  <action name="onhoverPolygonЭкспозиция2">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция2">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция2">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 3 -->
+  <style name="PolygonЭкспозиция3"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция3"
+           onover="onoverPolygonЭкспозиция3"
+           onout="onoutPolygonЭкспозиция3"
+           />
+  <action name="onhoverPolygonЭкспозиция3">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция3">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция3">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 4 -->
+  <style name="PolygonЭкспозиция4"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция4"
+           onover="onoverPolygonЭкспозиция4"
+           onout="onoutPolygonЭкспозиция4"
+           />
+  <action name="onhoverPolygonЭкспозиция4">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция4">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция4">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 5 -->
+  <style name="PolygonЭкспозиция5"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция5"
+           onover="onoverPolygonЭкспозиция5"
+           onout="onoutPolygonЭкспозиция5"
+           />
+  <action name="onhoverPolygonЭкспозиция5">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция5">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция5">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 6 -->
+  <style name="PolygonЭкспозиция6"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция6"
+           onover="onoverPolygonЭкспозиция6"
+           onout="onoutPolygonЭкспозиция6"
+           />
+  <action name="onhoverPolygonЭкспозиция6">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция6">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция6">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 7 -->
+  <style name="PolygonЭкспозиция7"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция7"
+           onover="onoverPolygonЭкспозиция7"
+           onout="onoutPolygonЭкспозиция7"
+           />
+  <action name="onhoverPolygonЭкспозиция7">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция7">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция7">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 8 -->
+  <style name="PolygonЭкспозиция8"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция8"
+           onover="onoverPolygonЭкспозиция8"
+           onout="onoutPolygonЭкспозиция8"
+           />
+  <action name="onhoverPolygonЭкспозиция8">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция8">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция8">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 9 -->
+  <style name="PolygonЭкспозиция9"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция9"
+           onover="onoverPolygonЭкспозиция9"
+           onout="onoutPolygonЭкспозиция9"
+           />
+  <action name="onhoverPolygonЭкспозиция9">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция9">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция9">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 10 -->
+  <style name="PolygonЭкспозиция10"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция10"
+           onover="onoverPolygonЭкспозиция10"
+           onout="onoutPolygonЭкспозиция10"
+           />
+  <action name="onhoverPolygonЭкспозиция10">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция10">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция10">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 11 -->
+  <style name="PolygonЭкспозиция11"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция11"
+           onover="onoverPolygonЭкспозиция11"
+           onout="onoutPolygonЭкспозиция11"
+           />
+  <action name="onhoverPolygonЭкспозиция11">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция11">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция11">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 12 -->
+  <style name="PolygonЭкспозиция12"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция12"
+           onover="onoverPolygonЭкспозиция12"
+           onout="onoutPolygonЭкспозиция12"
+           />
+  <action name="onhoverPolygonЭкспозиция12">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция12">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция12">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Экспозиция 13 -->
+  <style name="PolygonЭкспозиция13"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonЭкспозиция13"
+           onover="onoverPolygonЭкспозиция13"
+           onout="onoutPolygonЭкспозиция13"
+           />
+  <action name="onhoverPolygonЭкспозиция13">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonЭкспозиция13">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonЭкспозиция13">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 1 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF1"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF1"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF1"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF1"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF1">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF1">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF1">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 2 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF2"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF2"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF2"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF2"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF2">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF2">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF2">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 3 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF3"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF3"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF3"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF3"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF3">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF3">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF3">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 4 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF4"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF4"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF4"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF4"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF4">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF4">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF4">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 5 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF5"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF5"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF5"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF5"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF5">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF5">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF5">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style video 1 -->
+  <style name="PolygonDefaultPolygonSpotStylevideo1"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylevideo1"
+           onover="onoverPolygonDefaultPolygonSpotStylevideo1"
+           onout="onoutPolygonDefaultPolygonSpotStylevideo1"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylevideo1">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylevideo1">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylevideo1">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style video 2 -->
+  <style name="PolygonDefaultPolygonSpotStylevideo2"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylevideo2"
+           onover="onoverPolygonDefaultPolygonSpotStylevideo2"
+           onout="onoutPolygonDefaultPolygonSpotStylevideo2"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylevideo2">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylevideo2">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylevideo2">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style video 3 -->
+  <style name="PolygonDefaultPolygonSpotStylevideo3"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylevideo3"
+           onover="onoverPolygonDefaultPolygonSpotStylevideo3"
+           onout="onoutPolygonDefaultPolygonSpotStylevideo3"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylevideo3">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylevideo3">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylevideo3">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style video 4 -->
+  <style name="PolygonDefaultPolygonSpotStylevideo4"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylevideo4"
+           onover="onoverPolygonDefaultPolygonSpotStylevideo4"
+           onout="onoutPolygonDefaultPolygonSpotStylevideo4"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylevideo4">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylevideo4">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylevideo4">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 6 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF6"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF6"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF6"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF6"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF6">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF6">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF6">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 7 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF7"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF7"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF7"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF7"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF7">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF7">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF7">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style PDF 8 -->
+  <style name="PolygonDefaultPolygonSpotStylePDF8"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylePDF8"
+           onover="onoverPolygonDefaultPolygonSpotStylePDF8"
+           onout="onoutPolygonDefaultPolygonSpotStylePDF8"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylePDF8">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylePDF8">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylePDF8">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  
+  <!-- Spot Style - Default Polygon Spot Style video 5 -->
+  <style name="PolygonDefaultPolygonSpotStylevideo5"
+           visible="false"
+           bordercolor="0xffffff"
+           fillcolor="0xffffff"
+           borderwidth="1.0"
+           borderalpha="0.0"
+           fillalpha="0.0"
+           capture="false"
+           onhover="onhoverPolygonDefaultPolygonSpotStylevideo5"
+           onover="onoverPolygonDefaultPolygonSpotStylevideo5"
+           onout="onoutPolygonDefaultPolygonSpotStylevideo5"
+           />
+  <action name="onhoverPolygonDefaultPolygonSpotStylevideo5">
+    showTooltip('hotspot');
+  </action>
+  <action name="onoverPolygonDefaultPolygonSpotStylevideo5">
+    set(borderwidth, 4.0);
+    set(borderalpha, 1);
+    set(fillalpha, 0.4);
+  </action>
+  <action name="onoutPolygonDefaultPolygonSpotStylevideo5">
+    set(borderwidth, 1.0);
+    set(borderalpha, 0.0);
+    set(fillalpha, 0.0);
+    hideTooltip();
+  </action>
+
+
+
+
+  <!-- ********** -->
+  <!-- PDF Viewer -->
+  <!-- ********** -->
+
+<ptplugin name="PdfViewer" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="0" type="int" />
+		<option name="container_topright_border_radius" value="0" type="int" />
+		<option name="container_bottomleft_border_radius" value="0" type="int" />
+		<option name="container_bottomright_border_radius" value="0" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="false" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="title_position" value="top" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="iframe_default_width" value="900" type="int" />
+		<option name="iframe_default_height" value="1260" type="int" />
+		<option name="iframe_devices_width" value="1024" type="int" />
+		<option name="iframe_devices_height" value="5000" type="int" />
+		<option name="force_ios_scrolling" value="true" type="bool" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-PdfViewer')" type="string" />
+		<option name="zorder" value="0" type="int" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-PdfViewer">
+	set(ptplugin[PdfViewer].jsready, true);
+</action>
+
+<action name="openPDF-PdfViewer">
+	ifnot(ptplugin[PdfViewer].isOpen,
+		set(ptplugin[PdfViewer].isOpen, true);
+		set(ptplugin[PdfViewer].doNotDeleteMe, false);
+		pauseautorotation(forceplugin);
+
+		js(invokePluginFunction(PdfViewer, loadSingleArrayItem, %1?iframe=true, %2));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="togglePDF-PdfViewer">
+	js(invokePluginFunction(PdfViewer, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-PdfViewer">
+	js(invokePluginFunction(PdfViewer, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-PdfViewer">
+	resumeautorotation(forceplugin);
+
+	set(ptplugin[PdfViewer].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-PdfViewer" 
+	keep="true"
+/>
+
+  <!-- ******************* -->
+  <!-- Classic Control Bar -->
+  <!-- ******************* -->
+
+  <krpano theme2barbuilt="false" theme2backgroundwidthwhenclosed="0" theme2backgroundwidthwhenopened="0" theme2IsOpened="false" />
+  <events name="theme2events" onxmlcomplete="theme2buildMenuBar();" keep="true"/>
+  <action name="theme2buildMenuBar">
+    ifnot (theme2barbuilt, theme2buildMenu(); set(theme2barbuilt, true););
+  </action>
+
+  <action name="theme2buildMenu">
+    
+    set(theme2button_pos, 20);
+
+    set(layer[theme2btn_hidecontrols].x, get(theme2button_pos));
+    set(layer[theme2btn_showcontrols].x, get(theme2button_pos));
+    inc(theme2button_pos, 36);
+    add(theme2backgroundwidthwhenclosed, get(theme2button_pos), 20);
+
+
+
+    if (device.desktop,
+      set(layer[theme2btn_display_help].x, get(theme2button_pos));
+      set(layer[theme2btn_close_help  ].x, get(theme2button_pos));
+      inc(theme2button_pos, 36);
+    );
+
+    if (device.fullscreensupport,
+      set(layer[theme2btn_openfs ].x, get(theme2button_pos));
+      set(layer[theme2btn_closefs].x, get(theme2button_pos));
+      inc(theme2button_pos, 36);
+    );
+
+
+
+    set(layer[theme2btn_autorotate_on ].x, get(theme2button_pos));
+    set(layer[theme2btn_autorotate_off].x, get(theme2button_pos));
+    inc(theme2button_pos, 36);
+
+
+
+    if (device.desktop,
+      set(layer[theme2btn_ctrlmode_drag_to].x, get(theme2button_pos));
+      set(layer[theme2btn_ctrlmode_move_to].x, get(theme2button_pos));
+      inc(theme2button_pos, 36);
+    );
+
+
+
+    if (device.desktop,
+        set(layer[theme2btn_right].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+        set(layer[theme2btn_left].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+    );
+    if (device.desktop,
+        set(layer[theme2btn_down].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+        set(layer[theme2btn_up].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+    );
+    if (device.desktop,
+        set(layer[theme2btn_out].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+        set(layer[theme2btn_in].x, get(theme2button_pos));
+        inc(theme2button_pos, 36);
+    );
+    inc(theme2button_pos, 20);
+
+    set(theme2backgroundwidthwhenopened, get(theme2button_pos));
+    
+    
+    add(theme2VerifyVisibility, 20, 20);
+    if(theme2backgroundwidthwhenopened == 20,
+      set(theme2backgroundwidthwhenopened, 0);
+    );
+
+	
+	
+  </action>
+
+	<events name="theme2StartTourEvents" onTourStart="theme2CallOnStartTour();" keep="true" />
+
+	<action name="theme2CallOnStartTour">
+		
+		set(layer[theme2menu_controlbar_bg_img].width, get(theme2button_pos));
+		set(layer[theme2menu_controlbar_bg].width, get(theme2button_pos));
+		theme2showMenuControls();
+	</action>
+
+  <style name="theme2_btn_style"
+         keep="true"
+         alpha="0.8"
+         edge="right" align="right"
+         width="36" height="36"
+         zorder="3"
+         onover="theme2ctrlbaronoveraction();"
+         onout="theme2ctrlbaronoutaction();"
+	onhover="showTooltip('plugin', theme2menuTooltipStyle, bottom);"
+         />
+  <action name="theme2ctrlbaronoveraction">
+    tween(alpha,1,0.1,easeoutquad);
+    tween(y,-2,0.1,easeoutquad);
+  </action>  
+  <action name="theme2ctrlbaronoutaction">
+    tween(alpha,0.8);
+    tween(y,0,0.1,easeoutquad);
+    hideTooltip();
+  </action>
+
+  <layer name="theme2menu_controlbar_bg_img"
+         keep="true"
+         align="bottom"
+         x="0" y="10"
+         url="%FIRSTXML%/graphics/classiccontrolbar/footer.png"
+         zorder="1"
+         width="40"
+         height="40"
+         scale9grid="10|10|80|80"
+         visible="false"
+         />
+  <layer name="theme2menu_controlbar_bg"
+         keep="true"
+         align="bottom"
+         x="0" y="10"
+         type="container"
+         zorder="2"
+         width="40"
+         height="40"
+         visible="false"
+         alpha="1.0"
+         >
+
+
+
+    <layer name="theme2btn_ctrlmode_move_to"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_to.png"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicctrlmodeMoveTip"
+            onclick="setControlModeMoveTo();
+"
+            visible="false"
+            devices="desktop"
+            />
+    <layer name="theme2btn_ctrlmode_drag_to"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_drag_to.png"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicctrlmodeDragTip"
+            onclick="setControlModeDragTo();
+"
+            visible="false"
+            devices="desktop"
+            />
+
+    <layer name="theme2btn_in"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_zoom_in.png"
+            ondown="set(fov_moveforce, -1);
+"
+            onup="set(fov_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classiczoomInTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="theme2btn_out"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_zoom_out.png"
+            ondown="set(fov_moveforce, +1);
+"
+            onup="set(fov_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classiczoomOutTip"
+            devices="desktop"
+            visible="false"
+            />
+
+    <layer name="theme2btn_left"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_left.png"
+            ondown="set(hlookat_moveforce, -1);
+"
+            onup="set(hlookat_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicmoveLeftTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="theme2btn_right"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_right.png"
+            ondown="set(hlookat_moveforce, +1);
+"
+            onup="set(hlookat_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicmoveRightTip"
+            devices="desktop"
+            visible="false"
+            />
+
+    <layer name="theme2btn_up"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_up.png"
+            ondown="set(vlookat_moveforce, -1);
+"
+            onup="set(vlookat_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicmoveUpTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="theme2btn_down"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_down.png"
+            ondown="set(vlookat_moveforce, +1);
+"
+            onup="set(vlookat_moveforce, 0);
+"
+            style="theme2_btn_style"
+            tooltip="controlBar_classicmoveDownTip"
+            devices="desktop"
+            visible="false"
+            />
+
+
+
+
+
+    <layer name="theme2btn_openfs"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_enter_fs.png"
+            onclick="enterFullscreen();
+"
+            style="theme2_btn_style"
+            devices="fullscreensupport"
+            visible="false"
+            tooltip="controlBar_classicopenFsTip"
+            />
+    <layer name="theme2btn_closefs"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_close_fs.png"
+            onclick="exitFullscreen();
+"
+            style="theme2_btn_style"
+            visible="false"
+            devices="fullscreensupport"
+            tooltip="controlBar_classiccloseFsTip"
+            />
+
+    <layer name="theme2btn_autorotate_on"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_start_autorotation.png"
+            onclick="resumeautorotation();
+"
+            style="theme2_btn_style"
+            visible="false"
+            tooltip="controlBar_classicautorotateOnTip"
+            />
+    <layer name="theme2btn_autorotate_off"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_stop_autorotation.png"
+            onclick="pauseautorotation();
+"
+            style="theme2_btn_style"
+            visible="false"
+            tooltip="controlBar_classicautorotateOffTip"
+            />
+
+
+
+    <layer name="theme2btn_display_help"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_help.png"
+            onclick="theme2displayHelp();"
+            style="theme2_btn_style"
+            devices="desktop"
+            visible="false"
+            tooltip="controlBar_classicdisplayHelpTip"
+            />
+    <layer name="theme2btn_close_help"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_help.png"
+            onclick="theme2closeHelp();"
+            style="theme2_btn_style"
+            visible="false"
+            devices="desktop"
+            tooltip="controlBar_classichideHelpTip"
+            />
+
+
+
+    <layer name="theme2btn_hidecontrols"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_hide_controls.png"
+            style="theme2_btn_style"
+            onclick="theme2hideMenuControls();hideTourControls();
+"
+            visible="false"
+            tooltip="controlBar_classichideControlsTip"
+            />
+    <layer name="theme2btn_showcontrols"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_show_controls.png"
+            style="theme2_btn_style"
+            onclick="theme2showMenuControls();showTourControls();
+"
+            tooltip="controlBar_classicdisplayControlsTip"
+            visible="false"
+            />
+  </layer>
+
+
+
+	<events name="theme2controlmodechangedevent" 
+		oncontrolmodechanged="theme2updateControlModeButtons();" 
+		keep="true" />
+	<action name="theme2HideControlModeButtons">
+		set(layer[theme2btn_ctrlmode_move_to].visible, false);
+		set(layer[theme2btn_ctrlmode_drag_to].visible, false);
+	</action>
+	<action name="theme2ShowControlModeButtons">
+		if (tour_controlmodemousetype == "moveto",
+			set(layer[theme2btn_ctrlmode_drag_to].visible, true);
+			set(layer[theme2btn_ctrlmode_move_to].visible, false);
+		,
+			set(layer[theme2btn_ctrlmode_move_to].visible, true);
+			set(layer[theme2btn_ctrlmode_drag_to].visible, false);
+		);
+	</action>
+	<action name="theme2updateControlModeButtons">
+	if (device.desktop,
+		set(theme2DisplayControlModeButtons, false);
+		if (theme2IsOpened, set(theme2DisplayControlModeButtons, true););
+		if (theme2DisplayControlModeButtons,
+			theme2ShowControlModeButtons();
+		,
+			theme2HideControlModeButtons();
+		);
+	,
+		theme2HideControlModeButtons();
+	);
+	</action>
+
+
+  <action name="theme2hideMenuControls">
+    set(theme2IsOpened, false);
+    set(layer[theme2btn_hidecontrols].visible, false);
+    set(layer[theme2btn_showcontrols].visible, true);
+    theme2updateFullscreenButtons();
+
+
+    theme2updateAutorotationButtons();
+
+
+    set(layer[theme2btn_up].visible  , false);
+    set(layer[theme2btn_down].visible, false);
+    set(layer[theme2btn_right].visible, false);
+    set(layer[theme2btn_left].visible , false);
+    set(layer[theme2btn_in].visible , false);
+    set(layer[theme2btn_out].visible, false);
+
+
+    theme2updateControlModeButtons();
+
+
+    theme2updateHelpButtons();
+
+
+    if(theme2backgroundwidthwhenclosed == 0,
+      set(layer[theme2menu_controlbar_bg_img].visible, false);
+      set(layer[theme2menu_controlbar_bg].visible, false);
+    ,
+      set(layer[theme2menu_controlbar_bg_img].visible, true);
+      set(layer[theme2menu_controlbar_bg].visible, true);
+    );
+    tween(layer[theme2menu_controlbar_bg_img].width , get(theme2backgroundwidthwhenclosed));
+    tween(layer[theme2menu_controlbar_bg].width , get(theme2backgroundwidthwhenclosed));
+    tween(layer[theme2menu_controlbar_bg_img].alpha, 0.8);
+  </action>
+  <action name="theme2showMenuControls">
+    set(theme2IsOpened, true);
+    set(layer[theme2btn_hidecontrols].visible, true);
+    set(layer[theme2btn_showcontrols].visible, false);
+    if(theme2backgroundwidthwhenopened == 0,
+      set(layer[theme2menu_controlbar_bg_img].visible, false);
+      set(layer[theme2menu_controlbar_bg].visible, false);
+    ,
+      set(layer[theme2menu_controlbar_bg_img].visible, true);
+      set(layer[theme2menu_controlbar_bg].visible, true);
+    );
+    tween(layer[theme2menu_controlbar_bg_img].alpha, 0.8);
+    tween(layer[theme2menu_controlbar_bg_img].width, get(theme2backgroundwidthwhenopened), 0.5, easeOutQuad, theme2showMenuButtons(););
+    tween(layer[theme2menu_controlbar_bg].width, get(theme2backgroundwidthwhenopened), 0.5, easeOutQuad, theme2showMenuButtons(););
+  </action>
+  <action name="theme2showMenuButtons">
+    if (device.desktop,
+    set(layer[theme2btn_up].visible  , true);
+    set(layer[theme2btn_down].visible, true);
+    );
+    if (device.desktop,
+    set(layer[theme2btn_right].visible, true);
+    set(layer[theme2btn_left].visible , true);
+    );
+    if (device.desktop,
+    set(layer[theme2btn_in].visible , true);
+    set(layer[theme2btn_out].visible, true);
+    );
+
+
+    theme2updateControlModeButtons();
+
+
+    theme2updateHelpButtons();
+
+
+    theme2updateFullscreenButtons();
+
+
+    theme2updateAutorotationButtons();
+
+
+  </action>
+
+
+  <layer name="theme2helpScreenFg" align="center" keep="true" onclick="theme2closeHelp();" displayed="false" 
+         url="%FIRSTXML%/graphics/classiccontrolbar/h_1.png" 
+         alpha="1.0" 
+         zorder="97"
+         visible="false" />
+  <action name="theme2displayHelp">
+    set(layer[theme2helpScreenFg].displayed,true);
+    set(layer[theme2helpScreenFg].visible,true);
+    theme2updateHelpButtons();
+  </action>
+  <action name="theme2closeHelp">
+    set(layer[theme2helpScreenFg].displayed,false);
+    set(layer[theme2helpScreenFg].visible,false);
+    theme2updateHelpButtons();
+  </action>
+	<action name="theme2HideHelpButtons">
+		set(layer[theme2btn_display_help].visible, false);
+		set(layer[theme2btn_close_help].visible, false);
+	</action>
+	<action name="theme2ShowHelpButtons">
+		if (layer[theme2helpScreenFg].displayed,
+			set(layer[theme2btn_close_help].visible, true);
+			set(layer[theme2btn_display_help].visible, false);
+		,
+			set(layer[theme2btn_display_help].visible, true);
+			set(layer[theme2btn_close_help].visible, false);
+		);
+	</action>
+	<action name="theme2updateHelpButtons">
+	if (device.desktop,
+		set(theme2DisplayHelpButtons, false);
+		if (theme2IsOpened, set(theme2DisplayHelpButtons, true););
+		if (theme2DisplayHelpButtons,
+			theme2ShowHelpButtons();
+		,
+			theme2HideHelpButtons();
+		);
+	,
+		theme2HideHelpButtons();
+	);
+	</action>
+
+
+
+	<events name="theme2menufullscreenchangeevent"
+		onenterfullscreen="theme2updateFullscreenButtons();"
+		onexitfullscreen="theme2updateFullscreenButtons();"
+		keep="true"/>
+	<action name="theme2HideFullscreenButtons">
+		set(layer[theme2btn_openfs].visible , false);
+		set(layer[theme2btn_closefs].visible, false);
+	</action>
+	<action name="theme2ShowFullscreenButtons">
+		if (device.fullscreensupport,
+			if(tour_fullscreen,
+				set(layer[theme2btn_openfs].visible , false);
+				set(layer[theme2btn_closefs].visible, true);
+			,
+				set(layer[theme2btn_openfs].visible ,true);
+				set(layer[theme2btn_closefs].visible,false);
+			);
+		,
+			theme2HideFullscreenButtons();
+		);
+	</action>
+	<action name="theme2updateFullscreenButtons">
+		set(theme2DisplayFullscreenButtons, false);
+		if (theme2IsOpened, set(theme2DisplayFullscreenButtons, true););
+		if (theme2DisplayFullscreenButtons,
+			theme2ShowFullscreenButtons();
+		,
+			theme2HideFullscreenButtons();
+		);
+	</action>
+
+	<events name="theme2AutorotationEvents"
+		onstartautorotation="theme2updateAutorotationButtons();"
+		onresumeautorotation="theme2updateAutorotationButtons();"
+		onstopautorotation="theme2updateAutorotationButtons();"
+		onpauseautorotation="theme2updateAutorotationButtons();"
+		keep="true"/>
+	<action name="theme2HideAutorotationButtons">
+		set(layer[theme2btn_autorotate_off].visible, false);
+		set(layer[theme2btn_autorotate_on].visible , false);
+	</action>
+	<action name="theme2ShowAutorotationButtons">
+		if(autorotate.enabled == false,
+			set(layer[theme2btn_autorotate_off].visible, false);
+			set(layer[theme2btn_autorotate_on].visible , true);
+		,
+			set(layer[theme2btn_autorotate_off].visible, true);
+			set(layer[theme2btn_autorotate_on].visible , false);
+		);
+	</action>
+	<action name="theme2updateAutorotationButtons">
+		set(theme2DisplayAutorotationButtons, false);
+		if (theme2IsOpened, set(theme2DisplayAutorotationButtons, true););
+		if (theme2DisplayAutorotationButtons,
+			theme2ShowAutorotationButtons();
+		,
+			theme2HideAutorotationButtons();
+		);
+	</action>
+
+
+
+
+<layer name="theme2menuTooltipStyle"
+	keep="true"
+	enabled="false"
+	capture="false"
+	url="%FIRSTXML%/graphics/textfield.swf"
+	align="center"
+	background="false"
+	border="false"
+	textshadow="1" textshadowrange="4.0" textshadowangle="45" textshadowcolor="0x000000" textshadowalpha="1"
+	css="color:#e6e6e6;font-family:Helvetica;font-weight:bold;font-size:14px;text-align:left;"
+	height="20"
+	autoheight="true"
+	autowidth="auto"
+	selectable="false"
+	zorder="0"
+	visible="false"
+	html=""
+	padding="2"
+	xoffset="0"
+	yoffset="0"
+	edge="bottom"
+	/>
+
+
+  <!-- **************** -->
+  <!-- Web Video Viewer -->
+  <!-- **************** -->
+
+<ptplugin name="webVideoViewer" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="0" type="int" />
+		<option name="container_topright_border_radius" value="0" type="int" />
+		<option name="container_bottomleft_border_radius" value="0" type="int" />
+		<option name="container_bottomright_border_radius" value="0" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="false" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="title_position" value="top" type="string" />
+		<option name="title_font" value="Verdana" type="string" />
+		<option name="title_size" value="14" type="int" />
+		<option name="title_weight" value="normal" type="string" />
+		<option name="title_style" value="normal" type="string" />
+		<option name="title_decoration" value="none" type="string" />
+		<option name="title_color" value="000000" type="string" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="video_autoplay" value="false" type="bool" />
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-webVideoViewer')" type="string" />
+		<option name="zorder" value="4" type="int" />
+	</settings>
+	<internaldata>
+		
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-webVideoViewer">
+	set(ptplugin[webVideoViewer].jsready, true);
+</action>
+
+<action name="openWebVideo-webVideoViewer">
+	ifnot(ptplugin[webVideoViewer].isOpen,
+		set(ptplugin[webVideoViewer].isOpen, true);
+		set(ptplugin[webVideoViewer].doNotDeleteMe, false);
+		pauseautorotation(forceplugin);
+
+		
+		getmessage(boxurl, %1);
+		js(invokePluginFunction(webVideoViewer, loadSingleArrayItem, get(boxurl), %2));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleWebVideo-webVideoViewer">
+	js(invokePluginFunction(webVideoViewer, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-webVideoViewer">
+	js(invokePluginFunction(webVideoViewer, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-webVideoViewer">
+	resumeautorotation(forceplugin);
+
+	
+	set(ptplugin[webVideoViewer].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-webVideoViewer" 
+	keep="true" 
+/>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
+
+</krpano>

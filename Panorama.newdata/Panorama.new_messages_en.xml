@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano36_title"><![CDATA[Panorama_2.1]]></data>
+  <data name="en_spotpolygon38_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="en_spotpolygon38PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon39_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="en_spotpolygon39PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon40_tooltip"><![CDATA[Экспозиция 3]]></data>
+  <data name="en_spotpolygon40PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon41_tooltip"><![CDATA[Экспозиция 4]]></data>
+  <data name="en_spotpolygon41PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon42_tooltip"><![CDATA[Экспозиция 12]]></data>
+  <data name="en_spotpolygon42PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon47_tooltip"><![CDATA[Экспозиция 5]]></data>
+  <data name="en_spotpolygon47PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon48_tooltip"><![CDATA[Экспозиция 6]]></data>
+  <data name="en_spotpolygon48PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon49_tooltip"><![CDATA[Экспозиция 7]]></data>
+  <data name="en_spotpolygon49PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon50_tooltip"><![CDATA[Экспозиция 8]]></data>
+  <data name="en_spotpolygon50PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon51_tooltip"><![CDATA[Экспозиция 9]]></data>
+  <data name="en_spotpolygon51PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon52_tooltip"><![CDATA[Экспозиция 10]]></data>
+  <data name="en_spotpolygon52PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon53_tooltip"><![CDATA[Экспозиция 11]]></data>
+  <data name="en_spotpolygon53PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon54_tooltip"><![CDATA[Экспозиция 13]]></data>
+  <data name="en_spotpolygon54PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon98_tooltip"><![CDATA[Видеоролик "Выдатныя мясціны Наваельні"]]></data>
+  <data name="en_spotpolygon98webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/8aM1MfF6roc]]></data>
+  <data name="en_spotpolygon98webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon99_tooltip"><![CDATA[Новоельня - начало пути]]></data>
+  <data name="en_spotpolygon99PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon100_tooltip"><![CDATA[Дети политэмигрантов]]></data>
+  <data name="en_spotpolygon100PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon101_tooltip"><![CDATA[Дети политэмигрантов 2]]></data>
+  <data name="en_spotpolygon101PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon102_tooltip"><![CDATA[Начало войны]]></data>
+  <data name="en_spotpolygon102PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon103_tooltip"><![CDATA[Война и дети]]></data>
+  <data name="en_spotpolygon103PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon104_tooltip"><![CDATA[Первый видеофрагмент. Дети на вокзале в Москве.]]></data>
+  <data name="en_spotpolygon104webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/dvYsZ4nMDVk]]></data>
+  <data name="en_spotpolygon104webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon105_tooltip"><![CDATA[Второй видеофрагмент. В Новоельню пришли немцы.]]></data>
+  <data name="en_spotpolygon105webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/Cdhytq5QpEM]]></data>
+  <data name="en_spotpolygon105webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon106_tooltip"><![CDATA[Третий видеофрагмент. Расстрел двух девочек-евреек.]]></data>
+  <data name="en_spotpolygon106webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/p7LHVh7PgYE]]></data>
+  <data name="en_spotpolygon106webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon189_tooltip"><![CDATA[Оккупация Беларуси]]></data>
+  <data name="en_spotpolygon189PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon190_tooltip"><![CDATA[Дома окнами в военное детство]]></data>
+  <data name="en_spotpolygon190PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon191_tooltip"><![CDATA[Новоельнянский приют]]></data>
+  <data name="en_spotpolygon191PdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon192_tooltip"><![CDATA[Видеоэкскурсия на английском языке.]]></data>
+  <data name="en_spotpolygon192webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/-_fMmHdEHbE]]></data>
+  <data name="en_spotpolygon192webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Приблизить]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Отдалить]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Влево]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Вправо]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Вверх]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Вниз]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Полноэкранный режим]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Оконный режим]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Запустить автоповорот]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Отключить автоповорот]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Показать окно помощи]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Спрятать окно помощи]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Показать панель управления]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Спрятать панель управления]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Режим "Тянуть" ]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Режим "Двигать"]]></data>
+
+
+
+
+
+</krpano>
